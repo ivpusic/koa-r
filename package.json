@@ -1,6 +1,6 @@
 {
   "name": "koa-r",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "requesting node modules from one central object",
   "main": "index.js",
   "directories": {
