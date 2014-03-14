@@ -1,0 +1,32 @@
+{
+  "name": "koa-r",
+  "version": "0.0.0",
+  "description": "requesting node modules from one central object",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ivpusic/koa-r.git"
+  },
+  "keywords": [
+    "koa",
+    "node",
+    "require"
+  ],
+  "author": "Ivan Pusic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivpusic/koa-r/issues"
+  },
+  "homepage": "https://github.com/ivpusic/koa-r",
+  "devDependencies": {
+    "should": "~3.1.3",
+    "mocha": "~1.18.0",
+    "assert": "~1.1.1"
+  }
+}
