@@ -29,3 +29,6 @@ After user visit ``/users`` url, function ``getUsers`` from ``user`` module will
 
 With this you don't need to require ``user`` module inside script where above line is defined. You can use global ``r``,
 and access to cached modules and their functions.
+
+# License
+MIT
