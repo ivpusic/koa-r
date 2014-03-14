@@ -2,6 +2,11 @@
 
 Requesting node modules from some proxy object;
 
+### Installation
+```
+npm install koa-r
+```
+
 ### Example
 
 ```
