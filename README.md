@@ -37,7 +37,7 @@ exports.getUsers = function * (next) {
 // some/path/router/index.js
 var mount = require('koa-mount'),
   r = require('koa-r').isGlobal(true),
-  userAPI = require('./user');
+  userAPI = require('some/path/router/user.js');
 
 r.set('user', require('/some/path/handlers/user'));
 // etc...
